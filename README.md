@@ -9,9 +9,9 @@
 
 | Name | Role |
 |---|---|
+| Chandana P | Dashboard Development + EDGE AI|
 | Aishwarya M | Hardware + Firmware + Software Integration |
 | Dhruthi Salankimatt | ML Model Training (1D-CNN) |
-| Chandana P | Dashboard Development |
 | Sheela K Oli | Project Lead + Documentation |
 
 ---
